@@ -10,4 +10,4 @@ We funkcji main rzed while(1) wystartowałem timer z przerywaniem
 w nieskończonej pętli jest odświeżanie watchdoga
 A w USER CODE 4 callbeck, który wywołuje się przy przepełnieniu timer 
 
-Nie mam jak przetestować tego programu więc nie mam pojęcia czy wszystko działa, ale jeśli dobrze zinterpretowałem informacje  poradników i forum to powinno działas 
+Nie mam jak przetestować tego programu więc nie mam pojęcia czy wszystko działa, ale jeśli dobrze zinterpretowałem informacje z poradników i forum to powinno działać
